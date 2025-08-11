@@ -1,7 +1,0 @@
-[project]
-name = "loaddata"
-version = "0.1.0"
-description = "Load .csv files into sqlite3 database"
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
